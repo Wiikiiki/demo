@@ -1,0 +1,41 @@
+.ant-switch-checked {
+  background: rgb(117 231 151) !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  background-color: white;
+  display: inline-block;
+  width: 97%;
+  height: 240px;
+  margin-bottom: 10px;
+  overflow-y: scroll;
+  margin-right: 10px;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+.card-title-content {
+  color: rgb(218, 145, 161);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-switch {
+  position: absolute;
+  right: 15px;
+}
+
+.auto-dropdown {
+  width: 90%;
+}
+
+.auto-dropdown-button {
+  display: flex;
+  justify-content: space-between;
+  color: grey;
+}
